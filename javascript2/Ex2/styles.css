@@ -1,0 +1,13 @@
+#dot {
+  background: black;
+  width: 1em;
+  height: 1em;
+  border-radius: 7px;
+  position: absolute;
+  top: 50px;
+  left: 20px;
+}
+
+.invicible {
+  display: none;
+}
